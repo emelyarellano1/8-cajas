@@ -1,0 +1,38 @@
+
+.caja1 {
+	margin:5px;
+	width:80px;
+	height:80px; 
+	background-color: #D8D8D8;
+	border: 1px solid;
+}
+.caja2{
+	margin:5px;
+    width:300px;
+	height:95px;
+	background-color:#848484;
+	border: 1px solid;
+}
+.cuadrado{
+	margin:5px;
+	width:80px;
+	height:80px;
+	background-color: #D8D8D8;
+	border: 1px solid blue;
+	display:inline-block;
+}
+.caja3 {
+	margin:5px;
+	width:80px;
+	height:80px; 
+	background-color: #D8D8D8;
+	border: 1px solid;
+	display:inline-block;
+}
+.caja4 {
+	margin:5px;
+	width:80px;
+	height:80px; 
+	background-color: #D8D8D8;
+	border: 1px solid;
+}
